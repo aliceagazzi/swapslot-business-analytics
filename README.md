@@ -34,5 +34,3 @@ README.md
 ## Data and reproducibility
 Survey respondent-level data are **not included** in this public-ready draft, pending consent, disclosure-risk review, and confirmation of sharing rights. The scripts refer to local file paths and some inconsistent variable names; they are provided as original research materials rather than a turnkey executable pipeline. Public external datasets must be obtained separately and checked against their licenses.
 
-## Team and attribution
-Team project by Alice Agazzi, Jacopo Favaro, Riccardo Favazza, Jiayi Song, and Michela Tomasoni. Individual contributions should be documented before publication. The original team report contains student identification numbers and is intentionally omitted from this public-ready package.
